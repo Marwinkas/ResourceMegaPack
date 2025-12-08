@@ -1,5 +1,20 @@
 {
-  "race": {
-    "sounds": [ "custom:racemusic" ]
-  }
+    "race": {
+        "sounds": [ "custom:racemusic" ]
+    },
+    "ambient": {
+        "sounds": [ "custom:ambient" ]
+    },
+    "lobby": {
+        "sounds": [ "custom:clairdelune" ]
+    },
+    "quiz": {
+        "sounds": [ "custom:memory" ]
+    },
+    "red": {
+        "sounds": [ "custom:red" ]
+    },
+    "white": {
+        "sounds": [ "custom:white" ]
+    }
 }
