@@ -16,5 +16,29 @@
     },
     "white": {
         "sounds": [ "custom:white" ]
+    },
+    "ascension": {
+        "sounds": [ "custom:ascension" ]
+    },
+    "bridge": {
+        "sounds": [ "custom:bridge" ]
+    },
+    "caves": {
+        "sounds": [ "custom:caves" ]
+    },
+    "deepblue": {
+        "sounds": [ "custom:deepblue" ]
+    },
+    "end": {
+        "sounds": [ "custom:end" ]
+    },
+    "nether": {
+        "sounds": [ "custom:nether" ]
+    },
+    "rainy": {
+        "sounds": [ "custom:rainy" ]
+    },
+    "sculk": {
+        "sounds": [ "custom:sculk" ]
     }
 }
