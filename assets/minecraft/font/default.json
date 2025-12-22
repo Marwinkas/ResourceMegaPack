@@ -1,0 +1,68 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/s1.png",
+            "ascent": 61,
+            "height": 64,
+            "chars": [ "\uE001" ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/s2.png",
+            "ascent": 61,
+            "height": 64,
+            "chars": [ "\uE002" ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/s3.png",
+            "ascent": 61,
+            "height": 64,
+            "chars": [ "\uE003" ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/s4.png",
+            "ascent": 61,
+            "height": 64,
+            "chars": [ "\uE004" ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/s5.png",
+            "ascent": 12,
+            "height": 128,
+            "chars": [ "\uE005" ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/s6.png",
+            "ascent": 12,
+            "height": 128,
+            "chars": [ "\uE006" ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/s7.png",
+            "ascent": 12,
+            "height": 128,
+            "chars": [ "\uE007" ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/s8.png",
+            "ascent": 12,
+            "height": 128,
+            "chars": [ "\uE008" ]
+        },
+        {
+            "type": "space",
+            "advances": {
+                "\uE009": -1
+            }
+        }
+
+    ]
+}
