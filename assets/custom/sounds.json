@@ -41,7 +41,10 @@
     "sculk": {
         "sounds": [ "custom:sculk" ]
     },
-	"scream": {
+    "scream": {
         "sounds": [ "custom:scream" ]
+    },
+    "morning": {
+        "sounds": [ "custom:morning" ]
     }
 }
