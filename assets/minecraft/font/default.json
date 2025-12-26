@@ -58,6 +58,13 @@
             "chars": [ "\uE008" ]
         },
         {
+            "type": "bitmap",
+            "file": "minecraft:font/white.png",
+            "ascent": 80,
+            "height": 256,
+            "chars": [ "\uE010" ]
+        },
+        {
             "type": "space",
             "advances": {
                 "\uE009": -1
