@@ -1,0 +1,12 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "minecraft:constacia.ttf",
+            "shift": [ 0, 0 ],
+            "size": 11.0,
+            "oversample": 10.0,
+            "skip": ""
+        }
+    ]
+}

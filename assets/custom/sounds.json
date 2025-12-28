@@ -46,5 +46,11 @@
     },
     "morning": {
         "sounds": [ "custom:morning" ]
+    },
+    "portal_idle": {
+        "sounds": [ "custom:portal_idle" ]
+    },
+    "portal_jump": {
+        "sounds": [ "custom:portal_jump" ]
     }
 }
