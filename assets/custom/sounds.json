@@ -52,5 +52,8 @@
     },
     "portal_jump": {
         "sounds": [ "custom:portal_jump" ]
+    },
+    "nostalgy": {
+        "sounds": [ "custom:nostalgy" ]
     }
 }
