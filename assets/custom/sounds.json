@@ -55,5 +55,8 @@
     },
     "nostalgy": {
         "sounds": [ "custom:nostalgy" ]
+    },
+    "credits": {
+        "sounds": [ "custom:credits" ]
     }
 }
